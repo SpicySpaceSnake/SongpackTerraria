@@ -1,0 +1,80 @@
+[h1]Terraria Themes for Instruments 0.2.0[/h1]
+adds several themes from vanilla Terraria to be played on instruments.
+[h3]Join the Discord![/h3]
+[url=https://discord.gg/4nN8KHBY6R]My personal Discord[/url] contains categories for things that I work on. I'd recommend joining if you're interested in seeing early previews of what's being worked on.
+
+[hr][/hr]
+[h2]Songs[/h2]
+Only tracks in [b]bold[/b] are currently implemented. For every track, there exists both a solo version and multiple band parts.
+[list]
+[*][b]01 - Title Theme[/b]
+[*]02 - Console Title Theme
+[*]03 - Tutorial
+[*][b]04 - Overworld Day[/b]
+[*]05 - Alternate Overworld Day
+[*]06 - Overworld Night
+[*][b]07 - Underground[/b]
+[*]08 - Alternate Underground
+[*]09 - Glowing Mushrooms
+[*]10 - Rain
+[*][b]11 - Jungle[/b]
+[*]12 - Lihzahrd
+[*]13 - Desert
+[*][b]14 - Corruption[/b]
+[*]15 - Underground Corruption
+[*]16 - Crimson
+[*]17 - Underground Crimson
+[*][b]18 - Hallow[/b]
+[*][b]19 - Underground Hallow[/b]
+[*]20 - Snow
+[*]21 - Underground Snow
+[*]22 - Dungeon
+[*][b]23 - Underworld[/b]
+[*]24 - Ocean
+[*]25 - Console Ocean
+[*]26 - Space
+[*]27 - Console Space
+[*]28 - Eerie
+[*]29 - Goblin Army
+[*]30 - Pirate Invasion
+[*]31 - Pumpkin Moon
+[*]32 - Frost Moon
+[*]33 - Eclipse
+[*]34 - Lunar Event
+[*][b]35 - Boss 1[/b]
+[*][b]36 - Boss 2[/b]
+[*]37 - Boss 3
+[*]38 - Boss 4
+[*]39 - Plantera
+[*]40 - Boss 5
+[*]41 - Moon Lord
+[/list]
+
+[hr][/hr]
+[h2]Is this mod compatible with X?[/h2]
+Song mods are bafflingly simple and do nothing except stick .abc files in the 'songs' folder.
+The most breakage you'll get is if another mod happens to also have a song file with the exact same name. In this case, the mod that loads last will simply override it.
+
+[b]Found a bug? Leave a comment or start a discussion![/b]
+
+[hr][/hr]
+[h2]How often does this mod update?[/h2]
+This mod is currently discontinued.
+I may decide to do surprise updates if I'm bored, but don't hold your breath!
+
+[b]CURRENT FOCUS:[/b] none
+[b]CURRENT STATUS:[/b] being passively maintained
+
+[h2]Credits go to[/h2]
+[*][b]SpicySpaceSnake[/b] ([url=https://spicyspacesnake.carrd.co/]that's me![/url]): main transcriber and .abc file assembler
+[*][b]Scott Lloyd Shelly and Re-Logic[/b] ([url=https://open.spotify.com/artist/2B6z1EXe45dL53LoC9LDuP?si=GrKkNUveTzCkmBpLNgWGBg]Spotify[/url]): original music
+[*]Due to my poor recordkeeping skills in previous years, as well as many old links that are now broken, I have no accurate records of other transcription authors. Nevertheless, thanks to the many people I've drawn from!
+[h3]And a special thanks to[/h3]
+[list]
+[*][b]All of my partners[/b], for being a bunch of absolutely amazing people
+[*][b]Najja/Dyalt, Kirisis, and many others[/b] that I've either worked with or gotten advice from, for their previous and continued support
+
+[*]and [b]YOU[/b], for taking the time to check out this mod!
+[/list]
+
+Please be sure to rate on your way out, and share this with anyone you think might like it. Happy Starbounding!
