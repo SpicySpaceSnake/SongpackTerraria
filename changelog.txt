@@ -1,0 +1,23 @@
+[h1]0.2.0: Maintenance and Cleanup[/h1]
+Yes, I'm still here! But no, the mod is not back in development.
+[quote]
+[h2]New Additions[/h2]
+[list]
+[*]Songs from this mod's band extension has been merged into this mod
+[*]The mod now has a [url=https://github.com/SpicySpaceSnake/SongpackTerraria]public Github repository[/url]
+[/list]
+[/quote]
+[quote]
+[h2]Fixes[/h2]
+[list]
+[*]The Workshop description has been rewritten for cleanliness and clarity
+[*]The mod's display name has changed to something more sensible
+[*]The mod's internal name has changed to something more sensible
+[/list]
+[/quote]
+[quote]
+[h2]Removals[/h2]
+[list]
+[*]This mod's band extension has been removed from the Workshop, as its functionality is now fulfilled by this mod
+[/list]
+[/quote]
