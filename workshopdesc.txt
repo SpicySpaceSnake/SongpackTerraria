@@ -1,4 +1,4 @@
-[h1]Terraria Themes for Instruments 0.2.0[/h1]
+[h1]Spicy's Instrument Themes - Terraria 0.2.0[/h1]
 adds several themes from vanilla Terraria to be played on instruments.
 [h3]Join the Discord![/h3]
 [url=https://discord.gg/4nN8KHBY6R]My personal Discord[/url] contains categories for things that I work on. I'd recommend joining if you're interested in seeing early previews of what's being worked on.
