@@ -65,6 +65,7 @@ I may decide to do surprise updates if I'm bored, but don't hold your breath!
 [b]CURRENT FOCUS:[/b] none
 [b]CURRENT STATUS:[/b] being passively maintained
 
+[hr][/hr]
 [h2]Credits go to[/h2]
 [*][b]SpicySpaceSnake[/b] ([url=https://spicyspacesnake.carrd.co/]that's me![/url]): main transcriber and .abc file assembler
 [*][b]Scott Lloyd Shelly and Re-Logic[/b] ([url=https://open.spotify.com/artist/2B6z1EXe45dL53LoC9LDuP?si=GrKkNUveTzCkmBpLNgWGBg]Spotify[/url]): original music
